@@ -3,7 +3,7 @@ export class Food{
     name!:string;
     price!:number;
     tags?:string[];
-    favourite:boolean = false;
+    favorite:boolean = false;
     stars:number =0;
     imageUrl!:string;
     origins!:string[];
